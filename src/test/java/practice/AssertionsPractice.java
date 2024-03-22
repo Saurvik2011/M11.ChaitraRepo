@@ -22,6 +22,8 @@ public class AssertionsPractice {
 		System.out.println("step 4");
 		System.out.println("step 5");
 		
+		System.out.println("step 5");
+		
 	}
 
 	@Test
